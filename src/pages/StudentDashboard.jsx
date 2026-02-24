@@ -4,7 +4,7 @@ const StudentDashboard = () => {
   return (
     <div className="dashboard">
       {/* HEADER */}
-      <h1>Welcome, vinjam deepthi</h1>
+      <h1>Welcome</h1>
       <p className="subtitle">Your scholarship overview at a glance</p>
 
       {/* STATS */}
